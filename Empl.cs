@@ -31,5 +31,10 @@ namespace TestingEg
         {
             Console.WriteLine("This method is added by Arnab");
         }
+        
+        public void Ramya()
+        {
+            Console.WriteLine("Hello Ramya!!!!!!!");
+        }
     }
 }
