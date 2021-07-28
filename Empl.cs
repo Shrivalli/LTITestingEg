@@ -17,5 +17,10 @@ namespace TestingEg
         {
             Console.WriteLine("Display");
         }
+        
+        public void Method1()
+        {
+            Console.WriteLine("Method1");
+        }
     }
 }
