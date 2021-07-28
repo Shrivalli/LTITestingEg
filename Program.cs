@@ -7,6 +7,7 @@ namespace TestingEg
         static void Main(string[] args)
         {
             Console.WriteLine("Hello LTI 937!");
+            Console.WriteLine("New Line Added");
         }
     }
 }
