@@ -27,5 +27,10 @@ namespace TestingEg
         {
             Console.WriteLine("Method1");
         }
+        
+        public void WelcomeMsg()
+        {
+            Console.WriteLine("Hello Ramya!!!!!!!");
+        }
     }
 }
