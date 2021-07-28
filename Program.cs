@@ -10,6 +10,8 @@ namespace TestingEg
             Console.WriteLine("New Line Added");
             Console.WriteLine("Second Line Added");
             Console.WriteLine("Third Line Added");
+
+            Console.WriteLine("Fourth Line Added");
         }
     }
 }

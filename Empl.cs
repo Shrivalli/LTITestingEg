@@ -27,5 +27,10 @@ namespace TestingEg
         {
             Console.WriteLine("Method1");
         }
+
+        publiv void Swap()
+        {
+            Console.WriteLine("Swap");
+        }
     }
 }
