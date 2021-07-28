@@ -12,5 +12,10 @@ namespace TestingEg
         {
             Console.WriteLine("Welcome");
         }
+
+        public void Display()
+        {
+            Console.WriteLine("Display");
+        }
     }
 }
