@@ -8,6 +8,7 @@ namespace TestingEg
         {
             Console.WriteLine("Hello LTI 937!");
             Console.WriteLine("New Line Added");
+            Console.WriteLine("Second Line Added");
             Console.WriteLine("Third Line Added");
         }
     }
