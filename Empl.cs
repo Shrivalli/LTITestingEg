@@ -27,10 +27,9 @@ namespace TestingEg
         {
             Console.WriteLine("Method1");
         }
-        
-        public void WelcomeMsg()
+         public void A_M()
         {
-            Console.WriteLine("Hello Ramya!!!!!!!");
+            Console.WriteLine("This method is added by Arnab");
         }
     }
 }
