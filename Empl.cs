@@ -27,10 +27,9 @@ namespace TestingEg
         {
             Console.WriteLine("Method1");
         }
-
-        publiv void Swap()
+         public void A_M()
         {
-            Console.WriteLine("Swap");
+            Console.WriteLine("This method is added by Arnab");
         }
     }
 }
