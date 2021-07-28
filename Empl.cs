@@ -36,5 +36,10 @@ namespace TestingEg
         {
             Console.WriteLine("welcome");
         }
+        
+        public void Ramya()
+        {
+            Console.WriteLine("Hello Ramya!!!!!!!");
+        }
     }
 }
